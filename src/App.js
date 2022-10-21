@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Setup from "./useState/UseEffect_user";
+import Setup from "./2-conditional-rendaring/show-hide";
 
 function App() {
   return (
