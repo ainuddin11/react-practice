@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Setup from "./2-conditional-rendaring/show-hide";
+import Setup from "./3-form/1-contol-input";
 
 function App() {
   return (
