@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Setup from "./3-form/1-contol-input";
+import Setup from "./7-useContext";
 
 function App() {
   return (

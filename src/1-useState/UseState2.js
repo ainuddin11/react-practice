@@ -1,5 +1,5 @@
 import React from "react";
-import data from "./data";
+import data from "../data";
 
 function UseState2() {
   const [peoples, setPeoples] = React.useState(data);
